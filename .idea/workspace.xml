@@ -13,7 +13,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Wow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/user/Sandun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/TestBean.java" afterDir="false" />
     </list>
@@ -72,7 +71,7 @@
       <updated>1722160203954</updated>
       <workItem from="1722160204990" duration="4016000" />
       <workItem from="1722220391921" duration="623000" />
-      <workItem from="1722739594134" duration="20800000" />
+      <workItem from="1722739594134" duration="21146000" />
     </task>
     <task id="LOCAL-00001" summary="6th commit">
       <option name="closed" value="true" />
