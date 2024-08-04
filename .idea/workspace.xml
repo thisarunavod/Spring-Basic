@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c11f57-488b-4615-8d58-eaec5c435d2d" name="Changes" comment="7th commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/GoodGirl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Ruwini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Sarasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Sayuri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Shehara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Wow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/TestBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/user/Sandun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/user/Sandun.java" afterDir="false" />
-    </list>
+    <list default="true" id="06c11f57-488b-4615-8d58-eaec5c435d2d" name="Changes" comment="types of dependency injections" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +60,7 @@
       <updated>1722160203954</updated>
       <workItem from="1722160204990" duration="4016000" />
       <workItem from="1722220391921" duration="623000" />
-      <workItem from="1722739594134" duration="21813000" />
+      <workItem from="1722739594134" duration="23283000" />
     </task>
     <task id="LOCAL-00001" summary="6th commit">
       <option name="closed" value="true" />
@@ -97,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722756905487</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="types of dependency injections">
+      <option name="closed" value="true" />
+      <created>1722767637403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722767637403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6th commit" />
     <MESSAGE value="7th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="7th commit" />
+    <MESSAGE value="types of dependency injections" />
+    <option name="LAST_COMMIT_MESSAGE" value="types of dependency injections" />
   </component>
 </project>
