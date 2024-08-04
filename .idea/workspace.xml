@@ -14,6 +14,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <updated>1722160203954</updated>
       <workItem from="1722160204990" duration="4016000" />
       <workItem from="1722220391921" duration="623000" />
-      <workItem from="1722739594134" duration="6287000" />
+      <workItem from="1722739594134" duration="9948000" />
     </task>
     <servers />
   </component>
