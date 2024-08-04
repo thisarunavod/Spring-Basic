@@ -46,4 +46,6 @@ public class TestBean implements BeanNameAware, BeanFactoryAware,
     public void preDestroyTest(){
         System.out.println("ම්ං යනවො  with  destroy " );
     }
+
+
 }

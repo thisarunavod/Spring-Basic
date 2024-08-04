@@ -17,5 +17,6 @@ public class AppInit {
         ctx.registerShutdownHook();  /* <---- meken resources clear wela full shutdown wenawa */
 
 
+
     }
 }
