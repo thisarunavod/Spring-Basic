@@ -11,22 +11,22 @@ import org.springframework.stereotype.Component;
 public class TestBean implements BeanNameAware, BeanFactoryAware,
         ApplicationContextAware, InitializingBean, DisposableBean {
     public TestBean() {
-        System.out.println("Hello TestBean");
+        /*System.out.println("Hello TestBean");*/
     }
 
     @Override
     public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
-        System.out.println("Bean Factory is : "+ beanFactory);
+       /* System.out.println("Bean Factory is : "+ beanFactory);*/
     }
 
     @Override
     public void setBeanName(String name) {
-        System.out.println("Bean name is : "+ name );
+        /*System.out.println("Bean name is : "+ name );*/
     }
 
     @Override
     public void destroy() throws Exception {
-        System.out.println("ම්ං යනවො");
+        /*System.out.println("ම්ං යනවො");*/
     }
 
     @Override
@@ -36,7 +36,7 @@ public class TestBean implements BeanNameAware, BeanFactoryAware,
 
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
-        System.out.println("Application Contrext is :"+ applicationContext);
+        /*System.out.println("Application Contrext is :"+ applicationContext);*/
     }
 
 
@@ -44,7 +44,7 @@ public class TestBean implements BeanNameAware, BeanFactoryAware,
     apita oona method ekakata @PreDestroy annmotation eka
     dammama desstroy method ekata kalin call wenawa ( එකට කලින් method call වෙන්න ඔන නම්) */
     public void preDestroyTest(){
-        System.out.println("ම්ං යනවො  with  destroy " );
+        /*System.out.println("ම්ං යනවො  with  destroy " );*/
     }
 
 
