@@ -7,8 +7,9 @@ public class Demo {
 
         var ctx = new AnnotationConfigApplicationContext();   // <---- bajanaya //
         ctx.register(MyConfig.class);   // Application context kiyana bajanayata danawa My
-        ctx.refresh();                  // poddk kalawam karaa
+        ctx.refresh();                  // poddk kalawam karaa -- mix kara //
         ctx.close();
+        System.out.println("thisaru navod ");
 
     }
 }
