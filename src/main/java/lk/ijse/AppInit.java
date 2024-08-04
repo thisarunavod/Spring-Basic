@@ -13,7 +13,7 @@ public class AppInit {
 
         ctx.register(Config.class);
         ctx.refresh();
-        /*ctx.close();*/  /* close methid ekata wadiya pahala widiya good */
+        /*ctx.close();*/  /* close method එකට වඩිය පහල එක හොදයි */
         ctx.registerShutdownHook();  /* <---- meken resources clear wela full shutdown wenawa */
 
 

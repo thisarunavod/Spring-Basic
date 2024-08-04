@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c11f57-488b-4615-8d58-eaec5c435d2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="06c11f57-488b-4615-8d58-eaec5c435d2d" name="Changes" comment="6th commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/beans/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +63,17 @@
       <updated>1722160203954</updated>
       <workItem from="1722160204990" duration="4016000" />
       <workItem from="1722220391921" duration="623000" />
-      <workItem from="1722739594134" duration="10309000" />
+      <workItem from="1722739594134" duration="14671000" />
     </task>
+    <task id="LOCAL-00001" summary="6th commit">
+      <option name="closed" value="true" />
+      <created>1722751897031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722751897032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th commit" />
   </component>
 </project>
