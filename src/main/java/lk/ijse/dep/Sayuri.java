@@ -12,4 +12,5 @@ public class Sayuri implements GoodGirl {
         System.out.println("Love u sandun.........");
         System.out.println("Love u sandun.........");
     }
+
 }
