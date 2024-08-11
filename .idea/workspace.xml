@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c11f57-488b-4615-8d58-eaec5c435d2d" name="Changes" comment="types of dependency injections">
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/config/Config.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,7 +67,7 @@
       <workItem from="1722220391921" duration="623000" />
       <workItem from="1722739594134" duration="23592000" />
       <workItem from="1722996889649" duration="322000" />
-      <workItem from="1723346086370" duration="5076000" />
+      <workItem from="1723346086370" duration="7153000" />
     </task>
     <task id="LOCAL-00001" summary="6th commit">
       <option name="closed" value="true" />

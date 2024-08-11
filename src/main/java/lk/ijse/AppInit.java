@@ -1,5 +1,6 @@
 package lk.ijse;
 
+import lk.ijse.aop.Transaction;
 import lk.ijse.beans.TestBean;
 import lk.ijse.config.Config;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
@@ -14,10 +15,13 @@ public class AppInit {
         ctx.close();*/
         ctx.register(Config.class);
         ctx.refresh();
-        TestBean test = (TestBean)ctx.getBean("TestBean");
-        ConfigurableBeanFactory beanFactory = ctx.getBeanFactory();
-        boolean isSingletonCustomer = beanFactory.isPrototype("TestBean"); //<--- TestBean eke scope eka prototype daa balanaewa
-        System.out.println("Is testBean Singleton : " + isSingletonCustomer );
+        Transaction transaction = (Transaction) ctx.getBean("Transaction");
+        transaction.startTransaction();
+        transaction.endTransaction();
+//        TestBean test = (TestBean)ctx.getBean("TestBean");
+//        ConfigurableBeanFactory beanFactory = ctx.getBeanFactory();
+//        boolean isSingletonCustomer = beanFactory.isPrototype("TestBean"); //<--- TestBean eke scope eka prototype daa balanaewa
+//        System.out.println("Is testBean Singleton : " + isSingletonCustomer );
         /*ctx.close();*/  /* close method එකට වඩිය පහල එක හොදයි */
         ctx.registerShutdownHook();  /* <---- meken resources clear wela full shutdown wenawa */
 
