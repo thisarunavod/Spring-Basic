@@ -21,7 +21,7 @@ public class AppInit {
         /*ctx.close();*/  /* close method එකට වඩිය පහල එක හොදයි */
         ctx.registerShutdownHook();  /* <---- meken resources clear wela full shutdown wenawa */
 
-//        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
+
 
     }
 }
