@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component("TestBean")
-@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
+@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)  // <--- SCOPE_PROTOTYPE dunnama disposable methods call wenne na //
 public class TestBean implements BeanNameAware, BeanFactoryAware,
         ApplicationContextAware, InitializingBean, DisposableBean {
     public TestBean() {
